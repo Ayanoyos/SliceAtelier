@@ -1,0 +1,14 @@
+{
+  "name": "slice-atelier",
+  "displayName": "Slice Atelier",
+  "description": "Draw layered pixel art and inspect it as a live 3D slice volume.",
+  "version": "0.1.0",
+  "author": { "name": "ToolDevAtelier" },
+  "publisher": "tooldevatelier",
+  "license": "MIT",
+  "homepage": "https://github.com/Ayanoyos/SliceAtelier",
+  "repository": { "type": "git", "url": "https://github.com/Ayanoyos/SliceAtelier.git" },
+  "bugs": { "url": "https://github.com/Ayanoyos/SliceAtelier/issues" },
+  "categories": ["Scripts"],
+  "contributes": { "scripts": [{ "path": "./plugin.lua" }] }
+}

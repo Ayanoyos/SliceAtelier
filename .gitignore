@@ -1,0 +1,6 @@
+.dev-profile/
+.test-profile/
+artifacts/*.log
+artifacts/test-results.txt
+.DS_Store
+Thumbs.db
